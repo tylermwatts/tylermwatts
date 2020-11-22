@@ -17,13 +17,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🔭 I'm currently working on:
-
-- An open source collection management tool for non-profit museums, galleries,etc. using React and Recoil
+### 🔭 I’m currently working on:
+- Creating a generic pizzeria website 🍕 in an attempt to keep my React skills sharp.
 
 ### 🌱 I'm currently learning:
 
-- Angular. I'm coding along with Max Schwarzmüller's Complete Guide to Angular Udemy course
+- Angular. I was coding along with Max Schwarzmüller's Complete Guide to Angular Udemy course and I'm currently using Angular at my day job.
 
 ### 💬 Ask me about
 
