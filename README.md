@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 -->
 
 ### 🔭 I’m currently working on:
-- Creating a generic pizzeria website 🍕 in an attempt to keep my React skills sharp.
+- Creating a React Native podcast player app.
 
 ### 🌱 I'm currently learning:
 
-- Angular. I was coding along with Max Schwarzmüller's Complete Guide to Angular Udemy course and I'm currently using Angular at my day job.
+- React Native. I learn by building things.
 
 ### 💬 Ask me about
 
-- Anything from algorithms to guitar pedals
+- Anything from software design patterns to guitar pedals.
